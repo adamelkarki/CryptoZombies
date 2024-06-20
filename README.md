@@ -1,6 +1,6 @@
 # CryptoZombies
 
-    Coding-game realized in order to get familar and discover Solidity.
+    Coding-game realized in order to discover Solidity.
 
 
 ![alt text](assets/image.png)
